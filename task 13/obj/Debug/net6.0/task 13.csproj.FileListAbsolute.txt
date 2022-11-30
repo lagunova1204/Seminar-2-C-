@@ -1,0 +1,16 @@
+C:\Users\ирина\Desktop\Seminar2C#\task 13\bin\Debug\net6.0\task 13.exe
+C:\Users\ирина\Desktop\Seminar2C#\task 13\bin\Debug\net6.0\task 13.deps.json
+C:\Users\ирина\Desktop\Seminar2C#\task 13\bin\Debug\net6.0\task 13.runtimeconfig.json
+C:\Users\ирина\Desktop\Seminar2C#\task 13\bin\Debug\net6.0\task 13.dll
+C:\Users\ирина\Desktop\Seminar2C#\task 13\bin\Debug\net6.0\ref\task 13.dll
+C:\Users\ирина\Desktop\Seminar2C#\task 13\bin\Debug\net6.0\task 13.pdb
+C:\Users\ирина\Desktop\Seminar2C#\task 13\obj\Debug\net6.0\task 13.GlobalUsings.g.cs
+C:\Users\ирина\Desktop\Seminar2C#\task 13\obj\Debug\net6.0\task 13.csproj.AssemblyReference.cache
+C:\Users\ирина\Desktop\Seminar2C#\task 13\obj\Debug\net6.0\task 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ирина\Desktop\Seminar2C#\task 13\obj\Debug\net6.0\task 13.AssemblyInfoInputs.cache
+C:\Users\ирина\Desktop\Seminar2C#\task 13\obj\Debug\net6.0\task 13.AssemblyInfo.cs
+C:\Users\ирина\Desktop\Seminar2C#\task 13\obj\Debug\net6.0\task 13.csproj.CoreCompileInputs.cache
+C:\Users\ирина\Desktop\Seminar2C#\task 13\obj\Debug\net6.0\task 13.dll
+C:\Users\ирина\Desktop\Seminar2C#\task 13\obj\Debug\net6.0\ref\task 13.dll
+C:\Users\ирина\Desktop\Seminar2C#\task 13\obj\Debug\net6.0\task 13.pdb
+C:\Users\ирина\Desktop\Seminar2C#\task 13\obj\Debug\net6.0\task 13.genruntimeconfig.cache
